@@ -1,0 +1,123 @@
+<!--App Projects Page HTML.-->
+
+<section class="project-container py-5">
+    <div class="container py-4 text-center">
+        <div class="text-center title-section-skill mb-4">
+            <h2 class="mb-1">My Projects</h2>
+            <span>PREPARE TO BE AMAZED</span>
+            <hr color="red" size="1" width="150">
+        </div>
+        <div class="row project-section">
+            <!-- <div class="col-md-12">
+                <ul id="myTab" class="nav nav-pills justify-content-center flex-column flex-sm-row"> -->
+                    <!-- <li class="nav-item">
+                        <a class="nav-link active" href="#all" data-toggle="tab">Development</a>
+                    </li> -->
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#design">Design</a>
+                    </li> -->
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#code">Code</a>
+                    </li> -->
+                    <!-- <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#photo">Photography</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" data-toggle="tab" href="#app">Apps</a>
+                    </li> -->
+                <!-- </ul> 
+            </div> -->
+        </div>
+        <div class="tab-content">
+            <div class="row project-section pt-4 tab-pane active flex-column flex-sm-row" id="all">
+                <div class="col-md-3" *ngFor="let project of projects">
+                    <div class="box-project mb-4" routerLink="/project-details/{{project.name}}">
+                        <!-- {{project.name}} -->
+                        <img [src]="project.logo">
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="row project-section pt-4 tab-pane fade" id="design">
+                <div class="col-md-3">
+                    <div class="box-project mb-4 test"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+            </div>
+            <div class="row project-section pt-4 tab-pane fade" id="code">
+                <div class="col-md-3">
+                    <div class="box-project mb-4 test"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+            </div>
+            <div class="row project-section pt-4 tab-pane fade" id="photo">
+                <div class="col-md-3">
+                    <div class="box-project mb-4 test"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project mb-4"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+                <div class="col-md-3">
+                    <div class="box-project"></div>
+                </div>
+            </div> -->
+        </div>
+        <!-- <button type="button" class="btn btn-danger btn-resume mt-5">see more...</button> -->
+    </div>
+</section>
+
+<!--App Projects Page HTML.-->
