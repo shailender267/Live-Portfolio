@@ -1,6 +1,6 @@
 [
     {
-        "logo": "/assets/project/fragomen/quest-logo.png",
+        "logo": "data:/assets/project/fragomen/quest-logo.png",
         "name": "Fragomen",
         "role": "UX Designer | UI Development",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
