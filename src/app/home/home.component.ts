@@ -9,5 +9,8 @@ import { ActivatedRoute, Router } from '@angular/router';
     styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
+    onResume(){
+        window.open("./assets/resume/UX_UI_DesignerDeveloper.docx", "_blank");
+    }
 }
 

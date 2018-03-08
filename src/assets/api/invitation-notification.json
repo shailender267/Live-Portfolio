@@ -1,6 +1,6 @@
 [
     {
-        "logo": "data:/assets/project/fragomen/quest-logo.png",
+        "logo": "./assets/project/fragomen/quest-logo.png",
         "name": "Fragomen",
         "role": "UX Designer | UI Development",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
@@ -26,7 +26,7 @@
         "moreDetails": ""
     },
     {
-        "logo": "/assets/project/aclara/aclara-logo.png",
+        "logo": "./assets/project/aclara/aclara-logo.png",
         "name": "Fragomen",
         "role": "UI Developer",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
@@ -52,7 +52,7 @@
         "moreDetails": ""
     },
     {
-        "logo": "/assets/project/pulse/pulse-logo.png",
+        "logo": "./assets/project/pulse/pulse-logo.png",
         "name": "Pulse",
         "role": "UI Developer",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
@@ -78,7 +78,7 @@
         "moreDetails": ""
     },
     {
-        "logo": "/assets/project/prince/prince-logo.png",
+        "logo": "./assets/project/prince/prince-logo.png",
         "name": "Pulse",
         "role": "UI Developer",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
@@ -104,7 +104,7 @@
         "moreDetails": ""
     },
     {
-        "logo": "/assets/project/weichert/weichert-logo.png",
+        "logo": "./assets/project/weichert/weichert-logo.png",
         "name": "Pulse",
         "role": "UI Developer",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
@@ -130,7 +130,7 @@
         "moreDetails": ""
     },
     {
-        "logo": "/assets/project/infante/infante-logo.png",
+        "logo": "./assets/project/infante/infante-logo.png",
         "name": "Pulse",
         "role": "UI Developer",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
@@ -156,33 +156,43 @@
         "moreDetails": ""
     },
     {
-        "logo": "/assets/project/yukon/yukon-logo.png",
-        "name": "Pulse",
-        "role": "UI Developer",
-        "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
+        "logo": "./assets/project/yukon/yukon-logo.png",
+        "name": "Yukon PLC",
+        "role": "UX Designer & Developer",
+        "content": "The foundation of Yukon is passionate about learning, giving back, and always proudly and actively striving to do what is right for the client. They enjoy each other’s company and value honesty and transparency.",
         "activities": [
-            "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
-            "He has implemented the animated charts and data visualization utilizing the open source called D3.Js and C3.Js. He also implemented the US maps locating the all the Geo-Locations of all Neudesic Offices accurately.",
-            "He has performed the UI testing in all major browsers supporting IE-9, 10 and 11."
+            "Designed User interfaces that allow Users to get the details of the various practices in the company.",
+            "Developed User interfaces that can be used by Users to search for projects and enquire about them.",
+            "The entire application was implemented with Web Forms, HTML5, CSS3, Java Script and JQuery."
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "./assets/project/yukon/Home.png",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
-                "title": "Title 2",
+                "url": "./assets/project/yukon/Solutions.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/yukon/Services.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/yukon/UX.png",
+                "title": "Title",
                 "caption": ""
             }
         ],
-        "tools": "Visual Studio, ASP.NET MVC4, HTML 5, CSS 3, LessCss, HighCharts, Kendo UI, JQuery, JavaScript, and other Third Party Plugins.",                 
+        "tools": "Photoshop, Dreamweaver, Visual Studio 2012, HTML5, CSS3, SASS, Java Script and JQuery.",                 
         "link": "",
-        "moreDetails": ""
+        "moreDetails": "https://devishailender267.wordpress.com/2017/03/22/yukon-plc/"
     },
     {
-        "logo": "/assets/project/wordBrown/wordBrown-logo.png",
+        "logo": "./assets/project/wordBrown/wordBrown-logo.png",
         "name": "Word & Brown –Florida Healthcare",
         "role": "Front-end-Developer",
         "content": "The Word & Brown Companies are the nation’s recognized leader in developing and offering cutting-edge technology and quality health and other insurance plans and employee benefits to individuals, families, and groups of all sizes.",
@@ -194,22 +204,22 @@
         ],
         "images": [
             {
-                "url": "/assets/project/wordBrown/floridaHome.png",
+                "url": "./assets/project/wordBrown/floridaHome.png",
                 "title": "Florida Health Choice",
                 "caption": "Landing Page"
             },
             {
-                "url": "/assets/project/wordBrown/QuotePage.png",
+                "url": "./assets/project/wordBrown/QuotePage.png",
                 "title": "Get a Quote Page",
                 "caption": "User can customize plan here"
             },
             {
-                "url": "/assets/project/wordBrown/EnrollmentQualify.png",
+                "url": "./assets/project/wordBrown/EnrollmentQualify.png",
                 "title": "Entrollment Qualify Page",
                 "caption": "User can be able to check his qualification for enrollment"
             },
             {
-                "url": "/assets/project/wordBrown/addNewMember.png",
+                "url": "./assets/project/wordBrown/addNewMember.png",
                 "title": "Add new Member Page",
                 "caption": "User can add members here"
             }

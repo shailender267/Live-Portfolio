@@ -2,7 +2,7 @@
     <div class="container text-center title-section">
         <h1 class="mb-0">H1, I'm Devi Shailender Singh</h1>
         <h2>UX/UI Designer | Fron End Developer</h2>
-        <button type="button" class="btn btn-danger btn-resume mt-4">Download Resume</button>
+        <button type="button" class="btn btn-danger btn-resume mt-4" (click)="onResume()">Download Resume</button>
     </div>
 </section>
 <!--App Component HTML.-->
@@ -15,18 +15,18 @@
             <hr color="red" size="1" width="150">
         </div>
         <div class="row skill-section">
-            <div class="col-md-4 text-center">
-                <a routerLink="/home" class="icon-skill uxDesign mx-auto d-block"></a>
+            <div class="col-md-4 text-center item">
+                <a routerLink="/skill" class="icon-skill uxDesign mx-auto d-block"></a>
                 <strong>INFORMATION ARCHITECTURE</strong>
                 <!-- <p>Pellentesque in ipsum id orci porta dapibus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.</p> -->
             </div>
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center item">
                 <a routerLink="/skill" class="icon-skill webDesign mx-auto d-block"></a>
                 <strong>UX DESIGN</strong>
                 <!-- <p>Pellentesque in ipsum id orci porta dapibus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.</p> -->
             </div>
-            <div class="col-md-4 text-center">
-                <a routerLink="/projects"  class="icon-skill appDesign mx-auto d-block"></a>
+            <div class="col-md-4 text-center item">
+                <a routerLink="/skill"  class="icon-skill appDesign mx-auto d-block"></a>
                 <strong>FRONT END DEVELOPMENT</strong>
                 <!-- <p>Pellentesque in ipsum id orci porta dapibus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.</p> -->
             </div>

@@ -119,15 +119,25 @@ body{
         margin-top: 20px;
         line-height: 35px;
     }
-}
 
-
+    .item{ 
+        cursor: pointer;
+    }
+} 
 /*App Skill styles */
+
+/*Skill Detail Page*/
+ 
+/*Skill Detail Page*/
 
 /*Projects Styles*/
 
 .project-container{
     background: #eff7fa;
+
+    &.skill-container{
+        background: #eaebf4; 
+    }
     
     .tab-content>.active {
         display: flex !important;
@@ -149,7 +159,7 @@ body{
 
 .project-section{
 
-    //&#all .box-project{background: #c0c0c0;}
+    // C&#all .box-project{background: #c0c0c0;}
     &#design .box-project{background: rgb(110, 110, 207);}
     &#code .box-project{background: rgb(148, 42, 42);}
     &#photo .box-project{background: rgb(97, 134, 97);}
@@ -186,8 +196,13 @@ body{
 .aboutFooter{
     background: url('../assets/images/aboutUs-footer.jpg') no-repeat;
     background-size: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%; 
+
     div{ 
-        padding: 45px 30px;
+        padding: 50px 30px;
         color: #fff;
         width: 500px;
         margin: 0px auto;  
