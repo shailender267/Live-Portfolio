@@ -53,8 +53,8 @@
     },
     {
         "logo": "./assets/project/pulse/pulse-logo.png",
-        "name": "Pulse",
-        "role": "UI Developer",
+        "name": "Pulse-Talent Performance Management",
+        "role": "Front End Engineer & Visual Designer",
         "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
         "activities": [
             "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
@@ -63,97 +63,164 @@
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "./assets/project/pulse/img1.png",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
-                "title": "Title 2",
+                "url": "./assets/project/pulse/img2.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/pulse/img3.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/pulse/img4.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/pulse/img5.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/pulse/img6.png",
+                "title": "Title",
                 "caption": ""
             }
         ],
-        "tools": "Visual Studio, ASP.NET MVC4, HTML 5, CSS 3, LessCss, HighCharts, Kendo UI, JQuery, JavaScript, and other Third Party Plugins.",                 
-        "link": "",
-        "moreDetails": ""
+        "tools": "Visual Studio 2012, Visual Studio 2013, WINLESS – Compiler, Photoshop-CS6, SQL Management studio 2008 R2,  HTML5, CSS3, D3.js, C3.js, JavaScript, AJAX, JQuery, JSON, Angular.JS, Kendo UI, Bootstrap, JSP, LESS, SASS, Knockout.js, and Handlebar.js.",                 
+        "link": "https://www.neudesic.com/products/pulse-enterprise-social-software/",
+        "moreDetails": "https://devishailender267.wordpress.com/2017/03/22/pulse-talent-performance-management/"
     },
     {
         "logo": "./assets/project/prince/prince-logo.png",
-        "name": "Pulse",
-        "role": "UI Developer",
-        "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
+        "name": "Prince Resorts Hawaii – CRM Responsive Web Application",
+        "role": "UX Designer and Front End Developer",
+        "content": "Group of reputed hotels in Hawaii renowned hospitality which allows customers to plan their vacation in Hawaii using their portal which enables the user to opt for holiday packages and SPA services using their membership programs.",
         "activities": [
-            "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
-            "He has implemented the animated charts and data visualization utilizing the open source called D3.Js and C3.Js. He also implemented the US maps locating the all the Geo-Locations of all Neudesic Offices accurately.",
-            "He has performed the UI testing in all major browsers supporting IE-9, 10 and 11."
+                "Worked as a Designer and Developer in this project and created the interactive UI for the web application which can viewed on multiple screen resolution (RESPONSIVE DESIGN).",
+                "Coordinated with the developers and client to ensure that the Client is satisfied and design philosophy is intact.",
+                "Performed the UI testing in all types of devices varying from iPhone, iPad, Windows Phone, Surface Tablets and other android based devices to ensure that the final deployment is best."
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "./assets/project/prince/home.png",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
+                "url": "./assets/project/prince/register.PNG",
+                "title": "Title 2",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/prince/shopping.PNG",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/prince/reviewPage.PNG",
+                "title": "Title 2",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/prince/billing1.PNG",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/prince/trackorder.PNG",
                 "title": "Title 2",
                 "caption": ""
             }
         ],
-        "tools": "Visual Studio, ASP.NET MVC4, HTML 5, CSS 3, LessCss, HighCharts, Kendo UI, JQuery, JavaScript, and other Third Party Plugins.",                 
-        "link": "",
-        "moreDetails": ""
+        "tools": "Visual Studio 2012, WINLESS- compiler, Photoshop-CS5, HTML5, CSS3, D3.js, C3.js, JavaScript, AJAX, JQuery, JSON, Kendo UI, Bootstrap, Less.",                 
+        "link": "http://shop.princeresortshawaii.com/",
+        "moreDetails": "https://devishailender267.wordpress.com/2017/03/22/156/"
     },
     {
         "logo": "./assets/project/weichert/weichert-logo.png",
-        "name": "Pulse",
-        "role": "UI Developer",
-        "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
+        "name": "Weichert Realtors- Windows App",
+        "role": "UI Designer & Front-end-Developer",
+        "content": "A family of full-service real estate and financial services companies serving key markets throughout the U.S which is one of the most visited real estate websites in the nation, offering quick and easy access to listing information, Streamlining the delivery of mortgages, home and title insurance.",
         "activities": [
-            "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
-            "He has implemented the animated charts and data visualization utilizing the open source called D3.Js and C3.Js. He also implemented the US maps locating the all the Geo-Locations of all Neudesic Offices accurately.",
-            "He has performed the UI testing in all major browsers supporting IE-9, 10 and 11."
+                "Initated project from Scratch and created the interactive UI for the Windows 8 Screens by implementing all the functional API’s applicable for Microsoft Surface.",
+                "Worked with business analysts to understand their business models and goals and help define strategy, content, and features.",
+                "Exhibited UI and UX skills in understanding products, industry and related technologies comparing it to clients existing application and modifying accordingly.",
+                "Coordinated with the developers and Stakeholders to ensure that the Modern Windows 8 design philosophy is intact and that it aligns with the visual design"
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "./assets/project/weichert/Hub-page-advanced-search.jpg",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
+                "url": "./assets/project/weichert/Hub-page-saved-listings.jpg",
                 "title": "Title 2",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/weichert/Listings-details-page-1.jpg",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/weichert/Listings-details-page-4.jpg",
+                "title": "Title 2",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/weichert/splash-screen.jpg",
+                "title": "Title",
                 "caption": ""
             }
         ],
-        "tools": "Visual Studio, ASP.NET MVC4, HTML 5, CSS 3, LessCss, HighCharts, Kendo UI, JQuery, JavaScript, and other Third Party Plugins.",                 
-        "link": "",
-        "moreDetails": ""
+        "tools": "Visual Studio 2012, Photoshop-CS5, WINLESS- comp, WinJs, HTML 5, CSS 3, LessCss, JQuery, JavaScript, and other Third Party Plugins.",
+        "link": "https://www.microsoft.com/en-us/store/p/weichert-realtors/9wzdncrfj7vb",
+        "moreDetails": "https://devishailender267.wordpress.com/2017/03/22/weichert-realtors/"
     },
     {
         "logo": "./assets/project/infante/infante-logo.png",
-        "name": "Pulse",
-        "role": "UI Developer",
-        "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
+        "name": "Infante Angeles",
+        "role": "UX Designer & Developer",
+        "content": "Infante Angeles is law firm located in the busiest city of Peru. This site was meant to create Law firms Online Identity and also to attract more customers. This Site is Oriented to the achievement of objectives through development of strategies, formation of high performance teams and implementation of action plans. Demonstrates results through leadership skills, analysis and problem solving; And teamwork. Inter-functional management capabilities to provide a global solution due to multidisciplinary studies and multicultural experience.",
         "activities": [
-            "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
-            "He has implemented the animated charts and data visualization utilizing the open source called D3.Js and C3.Js. He also implemented the US maps locating the all the Geo-Locations of all Neudesic Offices accurately.",
-            "He has performed the UI testing in all major browsers supporting IE-9, 10 and 11."
+            "Built User interfaces that allow Users to get the details of the Law practices in the Law Firm.",
+            "Built User interfaces that can be used by Users to search for attorney and enquire about them.",
+            "The entire application was implemented with direct communication with Client."
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "./assets/project/infante/Home.PNG", 
+                "title": "Title",
+                "caption": ""
+            }, 
+            {
+                "url": "./assets/project/infante/videos.PNG",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
+                "url": "./assets/project/infante/InnerPage.PNG",
+                "title": "Title 2",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/infante/contact.png",
                 "title": "Title 2",
                 "caption": ""
             }
+
         ],
-        "tools": "Visual Studio, ASP.NET MVC4, HTML 5, CSS 3, LessCss, HighCharts, Kendo UI, JQuery, JavaScript, and other Third Party Plugins.",                 
-        "link": "",
-        "moreDetails": ""
+        "tools": "Photoshop, Dreamweaver, Visual Studio 2012, HTML5, CSS3, SASS, Java Script and JQuery.",                 
+        "link": "http://ia.com.pe/",
+        "moreDetails": "https://devishailender267.wordpress.com/2017/03/22/infante-angeles/"
     },
     {
         "logo": "./assets/project/yukon/yukon-logo.png",
@@ -168,23 +235,23 @@
         "images": [
             {
                 "url": "./assets/project/yukon/Home.png",
-                "title": "Title",
-                "caption": ""
+                "title": "Home",
+                "caption": "Home Page"
             },
             {
                 "url": "./assets/project/yukon/Solutions.png",
-                "title": "Title",
-                "caption": ""
+                "title": "Solutions",
+                "caption": "We solve problems"
             },
             {
                 "url": "./assets/project/yukon/Services.png",
-                "title": "Title",
-                "caption": ""
+                "title": "Services",
+                "caption": "Services we provide"
             },
             {
                 "url": "./assets/project/yukon/UX.png",
-                "title": "Title",
-                "caption": ""
+                "title": "UX",
+                "caption": "UX Practise in Yukon"
             }
         ],
         "tools": "Photoshop, Dreamweaver, Visual Studio 2012, HTML5, CSS3, SASS, Java Script and JQuery.",                 
