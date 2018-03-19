@@ -30,7 +30,7 @@
         </div>
         <div class="tab-content">
             <div class="row project-section pt-4 tab-pane active flex-column flex-sm-row" id="all">
-                <div class="col-md-3" *ngFor="let project of projects">
+                <div class="col-sm-6 col-md-3 col-6" *ngFor="let project of projects">
                     <div class="box-project mb-4" routerLink="/project-details/{{project.name}}">
                         <!-- {{project.name}} -->
                         <img [src]="project.logo">
