@@ -127,6 +127,30 @@ body{
 /*App Skill styles */
 
 /*Skill Detail Page*/
+
+.box-skills{  
+    &-icon{
+        width: 100px;
+        height: 100px; 
+        margin: auto;
+    }
+    strong{
+        display: block;
+        margin-top: 10px; 
+    }
+    .progressBar{ 
+        border: 1px solid #a9a7a7 !important;
+        width: 150px;
+        margin: 0px auto 10px;
+        height: 10px;
+
+        &-score{
+            color: #000!important;
+            height: 8px;
+            background-color: #52aaef !important;
+        }
+    }
+}
  
 /*Skill Detail Page*/
 
