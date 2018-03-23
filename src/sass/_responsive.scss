@@ -1,0 +1,54 @@
+@media (max-width: 575.98px) {  
+    html {
+        font-size: 13px;
+    }
+
+    .collapse.show {
+        display: block;
+        background: rgba(47, 61, 84, 0.981);
+        margin-top: 5px;
+    }
+    
+    .title-section {
+        h1{
+            font-size: 25px !important;
+            margin-top: 10px !important;
+        }
+
+        h2{
+            font-size: 15px !important;
+            margin-top: 5px !important;
+        }
+
+        &-skill h2{
+           font-size: 25px !important;
+        }
+    }
+    
+    .btn-resume{
+        font-size: 10px !important; 
+    }
+    
+ }
+  
+//   @include media-breakpoint-up(xs) {
+   
+//   }
+
+//   @include media-breakpoint-up(sm) {
+//     html {
+//       font-size: 1.2rem;
+//     }
+//   }
+  
+//   @include media-breakpoint-up(md) {
+//     html {
+//       font-size: 1.4rem;
+//     }
+//   }
+  
+//   @include media-breakpoint-up(lg) {
+//     html {
+//       font-size: 1.6rem;
+//     }
+//   }

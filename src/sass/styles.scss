@@ -1,6 +1,7 @@
-@import './variables';
+@import './variables'; 
 @import './mixins';
 @import "~bootstrap/scss/bootstrap";
+@import './responsive';
 
 /* You can add global styles to this file, and also import other style files */
 
@@ -34,6 +35,10 @@ body{
     color: rgba(255,255,255,.5);
     border-color: rgba(255,255,255,.1);
 } 
+
+.navbar .navbar-toggler-icon{
+    background-image: $navbar-dark-toggler-icon-bg;
+}
 
 /* .navbar-toggler-icon {
     background-image: url(data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://ww…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E);
