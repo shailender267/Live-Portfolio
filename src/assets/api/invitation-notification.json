@@ -2,48 +2,74 @@
     {
         "logo": "./assets/project/fragomen/quest-logo.png",
         "name": "Fragomen",
-        "role": "UX Designer | UI Development",
-        "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
+        "role": "UX Consultant",
+        "content": "Fragomen, Del Rey, Bernsen & Loewy LLP is an International immigration firm with headquarters in New York, established in 1951 and specialized in providing a range of immigration law services to corporate and individual clients, and is recognized as the world's largest firm that focuses its practice solely on global immigration law.",
         "activities": [
-            "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
-            "He has implemented the animated charts and data visualization utilizing the open source called D3.Js and C3.Js. He also implemented the US maps locating the all the Geo-Locations of all Neudesic Offices accurately.",
-            "He has performed the UI testing in all major browsers supporting IE-9, 10 and 11."
+            "Created Interactive Web Pages using Kendo UI and Angular 4 web technologies.",
+            "Performed User Research and created Reports, Personas, User Defined roles, Journey Mapping and Wire-Frames based on the analysis.",
+            "Created beautiful web pages utilizing most of the Kendo UI (R2) Components with Angular 4 and integrated with backend services coordinating with .Net developers."
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "./assets/project/fragomen/SearchLanding.jpg",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
-                "title": "Title 2",
+                "url": "./assets/project/fragomen/selectedTab.jpg",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/fragomen/Add-Field-Model.jpg",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/fragomen/Add-Field-New.jpg",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "./assets/project/fragomen/Add-Field-New-2.jpg",
+                "title": "Title",
                 "caption": ""
             }
         ],
-        "ools": "Visual Studio, ASP.NET MVC4, HTML 5, CSS 3, LessCss, HighCharts, Kendo UI, JQuery, JavaScript, and other Third Party Plugins.",                 
+        "tools": "HTML5, CSS3, Angular 4, Kendo UI, Typescript, Bootstrap, LESS, SASS, Web Pack, Dot Net Core, Sketch, Axure and OmniGraffle 7.",                 
         "link": "",
         "moreDetails": ""
     },
     {
         "logo": "./assets/project/aclara/aclara-logo.png",
-        "name": "Fragomen",
-        "role": "UI Developer",
-        "content": "Pulse, a Neudesic Product makes employee communication and collaboration easier than ever. Share ideas, projects, files, feedback, and receive instant answers – anywhere, anytime. This project adds a new feature to pulse called TPM (Talent Performance management) which enables the Performance Appraisal cycle go online. TPM includes various processes like gathering feedback from clients, managers, scrum masters etc. and rating them based on their performance.",
+        "name": "Aclara",
+        "role": "UX Developer",
+        "content": "Aclara’s Smart Infrastructure Solutions (SIS) elevate current automated metering infrastructure (AMI) technologies to a far more advanced and encompassing approach to managing distribution systems for electric, water and gas networks.",
         "activities": [
-            "Shailender worked as a Design Technologist and a front end engineer where he exhibited superb User Experience Skills. He had to change the Styles of complicated and pre-existing designs.",
-            "He has implemented the animated charts and data visualization utilizing the open source called D3.Js and C3.Js. He also implemented the US maps locating the all the Geo-Locations of all Neudesic Offices accurately.",
-            "He has performed the UI testing in all major browsers supporting IE-9, 10 and 11."
+            "Worked on website end-end to give it a new look using HTML5/CSS3/ SASS/ LESS/ Bootstrap/Angular.",   
+            "Worked as a developer and designer, where I developed new themes for ACE-X product for multiple clients.",
+            "Created live Prototypes using HTML, CSS, Google API’s and JavaScript Lib.",         
+            "Performed the UI testing in all major browsers and in all types of devices varying from iPhone, iPad, Windows Phone, Surface Tablets and other android devices."   
         ],
         "images": [
             {
-                "url": "/assets/project/img1.png",
+                "url": "/assets/project/aclara/AceEnergy.png",
                 "title": "Title",
                 "caption": ""
             },
             {
-                "url": "/assets/project/img2.png",
-                "title": "Title 2",
+                "url": "/assets/project/aclara/mlgw.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "/assets/project/aclara/product.png",
+                "title": "Title",
+                "caption": ""
+            },
+            {
+                "url": "/assets/project/aclara/sss.jpg",
+                "title": "Title",
                 "caption": ""
             }
         ],
@@ -93,9 +119,9 @@
                 "caption": ""
             }
         ],
-        "tools": "Visual Studio 2012, Visual Studio 2013, WINLESS – Compiler, Photoshop-CS6, SQL Management studio 2008 R2,  HTML5, CSS3, D3.js, C3.js, JavaScript, AJAX, JQuery, JSON, Angular.JS, Kendo UI, Bootstrap, JSP, LESS, SASS, Knockout.js, and Handlebar.js.",                 
-        "link": "https://www.neudesic.com/products/pulse-enterprise-social-software/",
-        "moreDetails": "https://devishailender267.wordpress.com/2017/03/22/pulse-talent-performance-management/"
+        "tools": "JavaScript, jQuery, Angular JS, HTML 5, CSS 3, AJAX, Bootstrap, Kendo UI, W3.CSS, LESS, SASS, Adobe CC",                 
+        "link": "https://projects.invisionapp.com/share/9D821PZPU#/screens/175171134",
+        "moreDetails": "https://projects.invisionapp.com/share/9D821PZPU#/screens/175171335"
     },
     {
         "logo": "./assets/project/prince/prince-logo.png",

@@ -28,7 +28,10 @@
     .btn-resume{
         font-size: 10px !important; 
     }
-    
+    .carousel.slide,
+    .carousel-item img{ 
+        max-height: 300px !important; 
+    } 
  }
   
 //   @include media-breakpoint-up(xs) {
