@@ -33,7 +33,6 @@ import { LocationStrategy, HashLocationStrategy } from '@angular/common';
     NgbModule.forRoot(),
     AppRoutingModule
   ],
-  //providers: [ProjectService, { provide: LocationStrategy, useClass: HashLocationStrategy }],
   providers: [ProjectService],
   bootstrap: [AppComponent]
 })
