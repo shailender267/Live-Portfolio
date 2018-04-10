@@ -14,6 +14,7 @@ import { AboutComponent } from './about/about.component';
 import { HttpModule } from '@angular/http';
 import { ProjectService } from './services/projectsServices';
 import { PageNotFound } from './PageNotFound/error-page.component';
+import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,7 @@ import { PageNotFound } from './PageNotFound/error-page.component';
     NgbModule.forRoot(),
     AppRoutingModule
   ],
-  providers: [ProjectService],
+  providers: [ProjectService, { provide: LocationStrategy, useClass: HashLocationStrategy }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
