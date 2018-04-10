@@ -11,9 +11,14 @@ export class ProjectService {
 
     constructor(private http: Http) { }
 
-    private _productURL = 'assets/api/invitation-notification.json';
-    getProducts() {
-        return this.http.get(this._productURL)
+    private developmentURL = './assets/api/development.json';
+    private designURL = './assets/api/design.json';
+    getDevelopments() {
+        return this.http.get(this.developmentURL)
+            .map((response: Response) => <IProjects[]>response.json());
+    }
+    getDesigns() {
+        return this.http.get(this.designURL)
             .map((response: Response) => <IProjects[]>response.json());
     }
 }

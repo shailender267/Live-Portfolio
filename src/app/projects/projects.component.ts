@@ -11,14 +11,18 @@ import { IProjects } from '../project-details/IProject';
 })
 export class ProjectsComponent implements OnInit {
 
-    projects: IProjects[];
+    development: IProjects[];
+    design: IProjects[];
 
     constructor(private projectService: ProjectService) {
     }
 
     ngOnInit(): void {
-        this.projectService.getProducts().subscribe(res => {
-            this.projects = res;
+        this.projectService.getDevelopments().subscribe(res => {
+            this.development = res;
+        });
+        this.projectService.getDesigns().subscribe(res => {
+            this.design = res;
         });
     }
 }

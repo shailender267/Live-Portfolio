@@ -25,9 +25,14 @@ export class ProjectDetailsComponent implements OnInit {
 
     getProjectDetails(projectName: string) {
         this.projectName = projectName;
-        this.projectService.getProducts().subscribe(res => {
-            this.project = res.find(x => x.name == projectName);
-            console.log(this.project)
+        this.projectService.getDevelopments().subscribe(res => {
+            this.project = res.find(x => x.name == projectName);  
+            if(!this.project){
+                this.projectService.getDesigns().subscribe(res => {
+                    this.project = res.find(x => x.name == projectName); 
+                });
+            }
+            
         });
     }
 
